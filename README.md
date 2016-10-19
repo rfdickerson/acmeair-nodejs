@@ -51,7 +51,7 @@ Assume MongoDB started on 127.0.0.1:27017
 		
 ### Run Acmeair in Micro-Service on Local
 
-	node authservice-app.js
+	node authservice_app.js
 	set AUTH_SERVICE=localhost:9443 or export AUTH_SERVICE=localhost:9443
 	node app.js
 	
